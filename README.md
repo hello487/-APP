@@ -1,4 +1,4 @@
-# MC服务器客户端
+<img width="671" height="577" alt="image" src="https://github.com/user-attachments/assets/da809878-4b00-4115-9c71-8659e5bcf5f4" /># MC服务器客户端
 
 这是一个专为我的世界第三方服务器设计的Android客户端应用，提供完整的服务器管理功能。
 
@@ -171,9 +171,10 @@ cd MCServerClient
 
 如有问题或建议，请通过以下方式联系：
 
-- 项目Issues: [GitHub Issues]
+- 项目Issues: [https://github.com/hello487/-APP]
 - 邮箱: [3493607801@qq.com]
 
 ---
 
 **注意**: 这是一个演示项目，实际使用时需要配置真实的服务器API地址和相关服务。
+
